@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42485c,100:bddbe0&height=180&text=&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">  </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 꾸준히 성장하는 백엔드 개발자입니다.<br></li>빠른 학습과 적용을 기반으로, 경험 기반의 성장을 중요시합니다.</li><br><br></li><a href="https://www.notion.so/yr<li>s/1728d1549c9880d8b8d8f4db52e250c5?pvs=4">노션 자기소개서</a> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -20,8 +20,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.notion.so/yr-s/1728d1549c9880d8b8d8f4db52e250c5?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/yr-s/1728d1549c9880d8b8d8f4db52e250c5?pvs=4"> </a>
-         <a href=mailto:yoursin0330@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoursin0330@gmail.com"> </a>
+    <div align= "center"> <a href=mailto:yoursin0330@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoursin0330@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
