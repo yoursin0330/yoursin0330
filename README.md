@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 꾸준히 성장하는 백엔드 개발자입니다.<br></li>빠른 학습과 적용을 기반으로, 경험 기반의 성장을 중요시합니다.</li><br><br></li><a href="https://www.notion.so/yr<li>s/1728d1549c9880d8b8d8f4db52e250c5?pvs=4">노션 자기소개서</a> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 꾸준히 성장하는 백엔드 개발자입니다.<br></li>빠른 학습과 적용을 기반으로, 경험을 통한 성장을 중요시합니다.</li><br><br></li><a href="https://www.notion.so/yr<li>s/1728d1549c9880d8b8d8f4db52e250c5?pvs=4">노션 자기소개서</a> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
