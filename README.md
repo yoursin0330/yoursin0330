@@ -1,16 +1,33 @@
-## Hi there 👋
-
-<!--
-**yoursin0330/yoursin0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42485c,100:bddbe0&height=180&text=&animation=&fontColor=000000&fontSize=70" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">  </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
+          </div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://www.notion.so/yr-s/1728d1549c9880d8b8d8f4db52e250c5?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/yr-s/1728d1549c9880d8b8d8f4db52e250c5?pvs=4"> </a>
+         <a href=mailto:yoursin0330@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoursin0330@gmail.com"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=yoursin0330&bg_color=180,42485c,00000000&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoursin0330&layout=compact&bg_color=180,42485c,00000000&title_color=ffffff&text_color=ffffff"
+           /> </div> 
+    </div>
+    
