@@ -22,9 +22,10 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:yoursin0330@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoursin0330@gmail.com"> </a>
           </div>  <br> 
+    </div>
     <div align= "center"> 
         <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yoursin0330&theme=dark&locale=ko&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
     </div>
  </div> 
-    </div>
+ </div>
     
