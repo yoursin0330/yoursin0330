@@ -25,8 +25,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=yoursin0330&bg_color=180,42485c,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoursin0330&layout=compact&bg_color=180,42485c,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
+        [![GitHub Streak](https://streak-stats.demolab.com/?user=yoursin0330)](https://git.io/streak-stats)
+ </div> 
     </div>
     
