@@ -23,7 +23,7 @@
     <div align= "center"> <a href=mailto:yoursin0330@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoursin0330@gmail.com"> </a>
           </div>  <br> 
     <div align= "center"> 
-        [![GitHub Streak](https://streak-stats.demolab.com?user=yoursin0330&theme=dark&locale=ko&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yoursin0330&theme=dark&locale=ko&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
     </div>
  </div> 
     </div>
